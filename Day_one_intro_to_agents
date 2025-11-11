@@ -1,0 +1,18 @@
+👉🏻Day 1 – Intro to Agents
+TODO: Import today's Kaggle notebook once published.
+
+Instructions
+Complete the notebook on Kaggle
+Download: File → Download .ipynb
+Replace this file with the downloaded notebook
+Update notes.md with key takeaways
+
+# Optional: Quick smoke test for Google AI Studio
+# Uncomment to verify your API key is configured correctly
+
+# import os
+# import google.generativeai as genai
+#
+# genai.configure(api_key=os.environ.get("GOOGLE_API_KEY", ""))
+# print("Ready. Attach GOOGLE_API_KEY as Kaggle Secret before running.")
+     
